@@ -2,7 +2,7 @@
     {
       "kernelSource": {
         "name": "XiaomiPad5Pro（Elish）",
-        "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+        "repo": "https://github.com/benbensy/Xiaomi_Kernel_OpenSource",
         "branch": "elish-r-oss",
         "device": "elish",
         "defconfig": "elish_user_defconfig"
