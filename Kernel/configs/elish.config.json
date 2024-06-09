@@ -2,10 +2,10 @@
     {
       "kernelSource": {
         "name": "XiaomiPad5Pro（Elish）",
-        "repo": "https://github.com/benbensy/Xiaomi_Kernel_OpenSource",
-        "branch": "elish-r-oss",
+        "repo": "https://github.com/logic10492/Kernel_Xiaomi_sm8250_S",
+        "branch": "staging",
         "device": "elish",
-        "defconfig": "elish_defconfig"
+        "defconfig": "elish-stock_defconfig"
       },
       "enableCcache": true,
       "toolchains": [
