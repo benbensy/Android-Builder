@@ -5,7 +5,7 @@
         "repo": "https://github.com/benbensy/Xiaomi_Kernel_OpenSource",
         "branch": "elish-r-oss",
         "device": "elish",
-        "defconfig": "elish_user_defconfig"
+        "defconfig": "elish_defconfig"
       },
       "enableCcache": true,
       "toolchains": [
